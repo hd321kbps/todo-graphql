@@ -1,4 +1,4 @@
-﻿## Todo App REST version
+﻿## Todo App GraphQL version
 <br>
 
 ---
